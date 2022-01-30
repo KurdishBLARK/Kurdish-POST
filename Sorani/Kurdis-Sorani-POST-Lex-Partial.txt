@@ -1,0 +1,59 @@
+بەرزتر	ADJ_CMPR
+بەرزتریان	ADJ_CMPR
+بەرهەمدارتر	ADJ_CMPR
+بەرهەمهێنتر	ADJ_CMPR
+بەناوبانگتر	ADJ_CMPR
+بەنرختر	ADJ_CMPR
+بەهرەی زیاتر	ADJ_CMPR
+بەهێزتر	ADJ_CMPR
+بۆ	ADJ_CMPR
+بێ بەهاتر	ADJ_CMPR
+شکاوە	ADJ_INO
+فراوان	ADJ_INO
+فڕێدراو	ADJ_INO
+فێربوو	ADJ_INO
+دوازدەیەم	ADJ_ORD
+دووەم	ADJ_ORD
+بریسکەدار	ADJ_SIM
+بریقەدار	ADJ_SIM
+بریکار	ADJ_SIM
+بریندار	ADJ_SIM
+وزەبەخشترین	ADJ_SUP
+وشکترین	ADJ_SUP
+یاسایی ترین	ADJ_SUP
+دەرەوە	ADV
+دووبارە	ADV
+دوور	ADV
+بە ڕێزەوە	ADV_NI
+بە ڕێکەوت	ADV_NI
+بە سەختی	ADV_NI
+لەکاتێکدا	ADV_TIME
+لەو کاتەوە	ADV_TIME
+بەڵام	CON
+بەم شێوەیە	CON
+لاپەڕەیەک	MORP
+دوورگەیەک	MORP
+ئازادی خوازان	N_PL
+ئاژاوەگێڕەکان	N_PL
+ئاژەڵەکانیان	N_PL
+ئاسانکاریەکان	N_PL
+ئانارشی	N_SING
+ئانارشیست	N_SING
+ئاناکۆندا	N_SING
+بمێنەوە	V_IMP
+بنووسە	V_IMP
+بەش	V_IMP
+بەهوش	V_IMP
+ کڕیت	V_PA
+ کەوتی	V_PA
+ نەبووی	V_PA
+ئاگادارن	V_PRE
+ئاگادارن	V_PRE
+ئامادەم	V_PRE
+دەزانم	V_PRS
+دەزانی	V_PRS
+دەزانی	V_PRS
+بزانە	V_SUB
+بسوتێنن	V_SUB
+بفرۆشە	V_SUB
+
