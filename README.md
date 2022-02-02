@@ -1,5 +1,5 @@
 # Kurdish-POST presents a POS-tagged lexicon for Kurdish (Sorani).
-This repository presents a partial dataset of a POS-tagged lexicon for Sorani.
+This repository presents a partial dataset of a POS-tagged lexicon for Sorani. This dataset is updated progressively.
 
 Please refer to the following article for more detail. Please cite the artilce when you use these datasets:
 
